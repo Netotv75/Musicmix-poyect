@@ -6,5 +6,5 @@ musica y radio 📻 online 🌐
 %100 de código abierto con licencia
 gnu gpl 3
 
-descargar de la app:
+descargar directa de los archivos:
 https://www.filemail.com/d/ihsvmyubumzphku
