@@ -8,3 +8,5 @@ gnu gpl 3
 
 descargar directa de los archivos:
 https://www.filemail.com/d/ihsvmyubumzphku
+
+si desea trabajar en el proyecto para codejir errores o crear tu propio proyecto basado en este enviar un gmail a: dylanherreravazquez@gmail.com
